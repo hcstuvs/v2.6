@@ -1107,25 +1107,25 @@
 #u30_seg0 {
   border-width:0px;
   position:absolute;
-  left:-8px;
+  left:-14px;
   top:-5px;
-  width:8px;
+  width:14px;
   height:10px;
 }
 #u30_seg1 {
   border-width:0px;
   position:absolute;
-  left:-8px;
+  left:-14px;
   top:-5px;
   width:10px;
-  height:334px;
+  height:319px;
 }
 #u30_seg2 {
   border-width:0px;
   position:absolute;
-  left:-8px;
-  top:319px;
-  width:40px;
+  left:-14px;
+  top:304px;
+  width:46px;
   height:10px;
 }
 #u30_seg3 {
@@ -1140,15 +1140,15 @@
   border-width:0px;
   position:absolute;
   left:19px;
-  top:315px;
+  top:300px;
   width:19px;
   height:18px;
 }
 #u30_text {
   border-width:0px;
   position:absolute;
-  left:-53px;
-  top:170px;
+  left:-59px;
+  top:162px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -1186,7 +1186,7 @@
   border-width:0px;
   position:absolute;
   left:565px;
-  top:1426px;
+  top:1411px;
   width:259px;
   height:24px;
   display:flex;
@@ -1937,44 +1937,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:19px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  color:#AAAAAA;
-}
-#u52 {
-  border-width:0px;
-  position:absolute;
-  left:467px;
-  top:1214px;
-  width:140px;
-  height:19px;
-  display:flex;
-  color:#AAAAAA;
-}
-#u52 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u52_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
-#u53_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:67px;
   height:22px;
   background:inherit;
@@ -1985,7 +1947,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u53 {
+#u52 {
   border-width:0px;
   position:absolute;
   left:676px;
@@ -1994,19 +1956,19 @@
   height:22px;
   display:flex;
 }
-#u53 .text {
+#u52 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u53_text {
+#u52_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u54_div {
+#u53_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -2021,7 +1983,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u54 {
+#u53 {
   border-width:0px;
   position:absolute;
   left:1507px;
@@ -2030,16 +1992,90 @@
   height:125px;
   display:flex;
 }
-#u54 .text {
+#u53 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u54_text {
+#u53_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+}
+#u54_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:252px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u54 {
+  border-width:0px;
+  position:absolute;
+  left:1362px;
+  top:492px;
+  width:252px;
+  height:16px;
+  display:flex;
+}
+#u54 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u54_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u55_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:210px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#AAAAAA;
+}
+#u55 {
+  border-width:0px;
+  position:absolute;
+  left:429px;
+  top:1214px;
+  width:210px;
+  height:16px;
+  display:flex;
+  color:#AAAAAA;
+}
+#u55 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u55_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
 }
